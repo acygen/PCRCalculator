@@ -16,3 +16,9 @@ PCRCaculator  公主连结全方位计算器，含角色面板数据计算、装
 
 主要程序代码见scrips文件夹，所有核心逻辑都在里面
 
+完整的unity工程文件下载（.unitypackage）
+
+完整包下载：
+链接：https://pan.baidu.com/s/1asapuXrsCQwz7U-ot4oAOQ 
+提取码：9l56
+
